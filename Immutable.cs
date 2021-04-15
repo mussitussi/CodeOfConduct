@@ -2,7 +2,7 @@ using System.Linq.Expressions;
 using System.Reflection;
 using System;
 
-namespace ImmutableDemo
+namespace ImmutableDemo2
 {
     public static class ImmutableMagic
     {
